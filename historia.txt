@@ -1,5 +1,5 @@
 Primer archivo de rodrigo
 
-rodrigo 2020
+rodrigo 2020 año de la pandemia
 
-tomando nota del curso de los comandos de git
+tomando nota del curso de git
