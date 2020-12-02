@@ -1,0 +1,5 @@
+Primer archivo de rodrigo
+
+rodrigo 2020
+
+tomando nota del curso de los comandos de git
